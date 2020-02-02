@@ -1,0 +1,6 @@
+torch
+torchvision
+requests==2.21.0
+opencv-python
+tqdm
+ImageHash
